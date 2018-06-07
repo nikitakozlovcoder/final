@@ -590,7 +590,8 @@ summary {
 /* Scripting
    ========================================================================== */
 /**
- * Add the correct display in IE 9-.
+
+* Add the correct display in IE 9-.
  */
 canvas {
   display: inline-block; }
@@ -636,7 +637,8 @@ body {
   font-family: "Segoe UI", serif;
   font-size: 16px;
   text-align: center;
-  color: #838a91; }
+  color: #838a91; 
+  overflow: hidden; }
 
 a {
   color: inherit;
